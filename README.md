@@ -5,7 +5,7 @@
 
 # Armada
 
-Armada is a multi-[Kubernetes](https://kubernetes.io/docs/concepts/overview/) cluster batch job scheduler.
+Armada is multi-[Kubernetes](https://kubernetes.io/docs/concepts/overview/) cluster batch job scheduler.
 
 Armada is designed to address the following issues:
 
